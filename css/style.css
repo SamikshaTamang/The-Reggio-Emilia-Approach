@@ -112,7 +112,7 @@ h4{
 	background-color: #113d4a;
 }
 .about img{
-	height: auto;
+	height: 430px;
 	width: 430px;
 }
 .about-text{
@@ -303,4 +303,14 @@ footer p:nth-child(2){
 	color:#f9004d;
 	bottom: 35px;
 	font-size: 14px; 
+}
+.fig {
+	display: flex;
+	margin-left: 100px;
+}
+figcaption {
+	text-align: center;
+	margin-top: 20px;
+	color: #f9004d;
+	font-size: 24px;
 }
